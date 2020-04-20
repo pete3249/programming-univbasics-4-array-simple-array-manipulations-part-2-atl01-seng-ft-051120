@@ -1,8 +1,7 @@
 def using_concat(a, b)
   a = ["raindrops on roses", "whiskers on kittens", "sports cars"]
-  b = ["flatiron school"]
+  b = ["flatiron school", "green"]
   a.concat(b)
-  a.length
 end
 
 
