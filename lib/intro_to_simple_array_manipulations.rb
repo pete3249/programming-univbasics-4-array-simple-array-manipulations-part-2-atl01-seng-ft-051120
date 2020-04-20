@@ -1,3 +1,4 @@
-["snowball", "snowman", "hot chocolate"].concat["jacket"]
+a = ["snowball", "snowman", "hot chocolate"]
+b = ["jacket"]
 
   
