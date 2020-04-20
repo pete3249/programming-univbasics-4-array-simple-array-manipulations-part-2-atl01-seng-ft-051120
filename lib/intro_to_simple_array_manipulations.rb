@@ -1,6 +1,6 @@
 def using_concat(a, b)
-  a = ["snowball", "snowman", "hot chocolate"]
-  b = ["jacket"]
+  a = ["raindrops on roses", "whiskers on kittens", "sports cars"]
+  b = ["flatiron school"]
   a.concat(b)
 end
  
