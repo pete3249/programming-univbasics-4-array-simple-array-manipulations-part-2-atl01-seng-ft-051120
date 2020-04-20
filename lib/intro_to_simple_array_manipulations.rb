@@ -5,6 +5,6 @@ def using_concat(my_favorite_things, b)
 end
 
 def using_insert(array, element)
- array.insert("hello")[4]
+ array.insert[4] = "Hello"
 end
   
