@@ -1,5 +1,5 @@
 def using_concat(a, b)
- a = ["raindrops on roses", "whiskers on kittens", "sports cars"]
+  a = ["raindrops on roses", "whiskers on kittens", "sports cars"]
   b = ["flatiron school"]
   my_favorite_things.concat(b)
 end
