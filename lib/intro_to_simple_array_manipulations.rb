@@ -1,10 +1,10 @@
-def using_concat(a, b)
-  a = ["raindrops on roses", "whiskers on kittens", "sports cars"]
+def using_concat(my_favorite_things, b)
+  my_favorite_things = ["raindrops on roses", "whiskers on kittens", "sports cars"]
   b = ["flatiron school"]
-  a.concat(b)
+  my_favorite_things.concat(b)
 end
 
 def using_insert(array, element)
- array.insert[4] = "hello"
+ array.insert("hello")[4]
 end
   
